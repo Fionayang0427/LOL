@@ -7,7 +7,7 @@ class SqlBase {
     this.connection = mysql.createConnection({
       host: "localhost",
       user: "root",
-      password: "root",
+      password: "123",
       port: "3306",
       database: "lol"
     });
