@@ -1,0 +1,67 @@
+.box{
+    width: 400px;
+    margin: 200px auto;
+    margin-bottom: 0;
+
+}
+.logo{
+    background-color: #FFD9D9;
+    color:deeppink;
+    width: 350px;
+    height: 30px;
+    font-size: 12px;
+    line-height: 30px;
+    border-radius: 4px;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 20px;
+    opacity: 0.8;
+  
+  }
+  .box {
+    width: 400px;
+  }
+  .email,
+  .passwd {
+    width: 350px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+  }
+  .word {
+    font-size: 12px;
+  }
+  input {
+    display: block;
+    width: 350px;
+    height: 30px;
+    border: none;
+    border-radius: 4px;
+    background-color: rgba(210, 225, 220, 0.5);
+    outline: none;
+    -webkit-tap-highlight-color: rgba(255, 0, 0, 0);
+  }
+  .button {
+    height: 35px;
+    line-height: 35px;
+    border-radius: 4px;
+    display: block;
+    width: 350px;
+    color: white;
+    border: none;
+    background-color: #fa8581;
+    font-size: 12px;
+    text-align: center;
+    outline: none;
+    margin: 0 auto;
+    margin-top: 40px;
+  }
+  .button:hover {
+    background-color: #fc5f59;
+    color: antiquewhite;
+  }
+  .warn {
+    font-size: 12px;
+    color: #fc5f59;
+    margin-bottom: 10px;
+  }
+  

@@ -1,0 +1,15 @@
+.comprehensive{
+	display: flex;
+	width: 1358px;
+	margin: 0 auto;
+	margin-top: 40px;
+	justify-content: space-between;
+}
+
+.rotation-box{
+	width: 820px;
+	height: 340px;
+}
+.comprehensive-right{
+	width: 496px;
+}

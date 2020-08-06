@@ -1,0 +1,34 @@
+.Infocard-box{
+	display: flex;
+}
+.Infocard {
+	width: 193px;
+	height: 278px;
+	display: flex;
+	flex-direction: column;
+	margin-right: 16px;
+	background-color: white;
+	box-sizing: border-box;
+	transition: all .5s
+}
+
+.Infocard img {
+	height: 207px;
+}
+
+.Infocard:hover{
+	transform: translateY(-10px);
+}
+.Infocard-fontone {
+	font-size: 14px;
+	color: #424242;
+	line-height: 18px;
+	margin: 16px 0;
+	margin-left: 8px;
+}
+
+.Infocard-fonttwo {
+	font-size: 12px;
+	color: #1da6ba;
+	margin-left: 8px;
+}

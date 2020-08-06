@@ -1,0 +1,39 @@
+
+
+.comprehensive-title {
+	color: #0da0b4;
+	line-height: 59px;
+	text-align: center;
+	font-size: 22px;
+	font-weight: 700;
+}
+
+.comprehensive-box ul li {
+	border-top: 1px #e0e2e2 solid;
+	display: flex;
+	align-items: center;
+	width: 100%;
+	justify-content: space-between;
+}
+
+.comprehensive-tag {
+	color: #bb9a6c;
+	border: 1px #c5ab86 solid;
+	width: 36px;
+	height: 20px;
+	text-align: center;
+}
+
+.comprehensive-content {
+	line-height: 39px;
+	color: #424242;
+	font-size: 14px;
+	margin-left: -100px;
+}
+.comprehensive-content:hover{
+	color: #bb9a6c;
+}
+.comprehensive-date{
+	color: #9d9d9d;
+	    font-size: 14px;
+}

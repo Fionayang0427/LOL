@@ -1,0 +1,186 @@
+.Gamedata{
+    text-align: center;
+    margin:0 16%;
+    /* background-color: #F7F8F8; */
+}
+.ant-tabs-nav .ant-tabs-tab-active {
+    color: #00A383;
+    font-weight: 500;
+}
+.ant-tabs-ink-bar {
+    background-color: #00A383;
+}
+.ant-tabs-nav .ant-tabs-tab:hover {
+    color: #00A383;
+}
+.ant-tabs-nav-container{
+    font-size: 12px;
+}
+.hero-item{
+    width: 100%;
+    height: auto;
+    text-align: center;
+    display: flex;
+    justify-content: left;
+    margin:1%;
+    flex-wrap: wrap;
+}
+.hero-item-item{
+    width: 5.4%;
+    height: auto;
+    margin:1%;
+    position: relative;
+}
+.hero-item-item div{
+    width: 100%;
+    height: 68%;
+    background-color: rgb(0,163,131,0.6);
+    z-index: 999;
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: none;
+}
+.hero-item-item:hover div{
+    display: block;
+}
+.hero-item-item img{
+    width: 100%;
+    height: 68%;
+
+}
+.hero-item-item span{
+    width: 100%;
+    height: auto;
+    font-size: 8px;
+    display: inline-block;
+}
+.skill{
+    width: 100%;
+    height: auto;
+    margin: 2%;
+    display: flex;
+    justify-content: left;
+}
+.skill-left{
+    width:40%;
+    height: auto;
+    padding-right:2%;
+    display: flex;
+    flex-wrap: wrap;
+    border-right: 1px solid #E4E4E4;
+}
+.skill-right{
+    width:60%;
+    height: auto;
+    text-align: left;
+    padding-left: 4%;
+    /* border: 1px solid #f00; */
+}
+.left-item{
+    width: 14%;
+    height: auto;
+    margin: 2%;
+    display: inline-block;
+}
+.left-img{
+    width: 100%;
+    height: auto;
+}
+.left-img:focus-within{
+    border: 5px solid #00A383;
+}
+.left-item span{
+    font-size: 8px;
+}
+.skillRight{
+    margin: 1.4%;
+}
+.right-item{
+    width: 100%;
+    display: flex;
+}
+.right-img{
+    width: 9.3%;
+    height: auto;
+}
+.right-title-right{
+    width: 100%;
+    height: 26px;
+    line-height: 26px;
+    display: inline-block;
+}
+.right-title{
+    color: #00A383;
+    font-size: 11px;
+    font-weight: bold;
+    padding: 2%;
+}
+.right-grade{
+    width: 100%;
+    font-size: 10px;
+    display: block;
+    padding: 0 2%;
+    color: #9A9A9A;
+}
+.skill-introduce{
+    width: 100%;
+    font-size: 10px;
+    height: auto;
+    color: #333333;
+    padding: 2% 0;
+}
+.skill-right-introimg{
+    width: 70%;
+    height: auto;
+}
+.runes{
+    width: 100%;
+    height: auto;
+    background-color: #000;
+}
+.runes-box{
+    width: 100%;
+    height: auto;
+    position: relative;
+    top:0%;
+    margin: auto;
+    /* border: 1px solid #AB8F57; */
+    display: flex;
+    justify-content: left;
+}
+.hover1{
+    width: 16%;
+    height: auto;
+    position: absolute;
+    left: 8%;
+    top: 19%;
+}
+.hover2{
+    width: 16%;
+    height: auto;
+    position: absolute;
+    left: 25%;
+    top: 19%;
+}
+.hover3{
+    width: 16%;
+    height: auto;
+    position: absolute;
+    left: 42%;
+    top: 19%;
+}
+.hover4{
+    width: 16%;
+    height: auto;
+    position: absolute;
+    left: 59%;
+    top: 19%;
+}
+.hover5{
+    width: 16%;
+    height: auto;
+    position: absolute;
+    left: 76%;
+    top: 19%;
+}

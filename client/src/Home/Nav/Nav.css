@@ -1,0 +1,45 @@
+#home-box {
+	background-image: url("//img.crawler.qq.com/lolwebschool/0/JAutoCMS_LOLWeb_3ecabeb51b86cc8caddaca4a98458587/0");
+	background-size: cover;
+	height: 360px;
+}
+
+.nav {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	height: 78px;
+}
+
+.nav-logo {
+	width: 167px;
+	height: 60px;
+}
+
+.nav-fontbox {
+	display: flex;
+	color: #fff;
+	font-size: 18px;
+	width: 700px;
+	justify-content:space-between;
+}
+.nav-linkbox{
+	cursor: pointer;
+}
+.nav-font {
+	color: #fff;
+}
+
+.nav-eng {
+	color: #aeaeae;
+	font-size: 11px;
+	text-align: center;
+}
+.userimg{
+	width: 48px;
+	height: 48px;
+	border-radius: 48px;
+}
+.honey{
+	font-size: 20px;
+}

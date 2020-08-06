@@ -1,0 +1,106 @@
+.Heroinfo {
+	width: 1240px;
+	margin: 0 auto;
+}
+
+.hero-title {
+	width: 1240px;
+	line-height: 96px;
+	font-size: 14px;
+}
+
+.hero-title span,
+.anticon-right,
+.anticon-home {
+	color: #a9a9a9;
+}
+
+.hero-title .hero-title-name {
+	color: #424242;
+}
+
+.hero-info {
+	height: 632px;
+	position: relative;
+	color: white;
+	padding: 60px 0 0 50px;
+	box-sizing: border-box;
+}
+
+.hero-info img {
+	width: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: -11;
+}
+
+.hero-info h1 {
+	font-size: 24px;
+	line-height: 25px;
+	color: white;
+}
+
+.hero-info p {
+	font-size: 42px;
+	font-weight: 600;
+	margin-bottom: 25px;
+}
+
+.hero-info .hero-tag {
+	width: 35px;
+	height: 21px;
+	line-height: 21px;
+	text-align: center;
+	background-color: #00a483;
+	border-radius: 5px;
+	font-size: 12px;
+	margin-bottom: 25px;
+}
+
+.hero-defail {
+	width: 150px;
+}
+.colbox {
+    border: 1px solid #e1e1e1;
+    box-shadow: 0 0 2px rgba(0,0,0,.1);
+    background: #fff;
+}
+.hero-buy {
+	width: 153px;
+	height: 40px;
+	background-image: url("//game.gtimg.cn/images/lol/web201310/page.png?d=20131230");
+	background-position: -638px 0;
+	margin-top: 25px;
+}
+
+
+h4 {
+	display: block;
+	margin: 47px 0 15px;
+	font-size: 16px;
+	color: #338c7a;
+}
+
+.hero-story {
+	width: 780px;
+	height: 194px;
+	padding: 28px 32px;
+	font-size: 14px;
+	line-height: 24px;
+	text-indent: 2em;
+	overflow: hidden;
+	color: #666;
+}
+
+.hero-technic{
+	padding: 20px 30px 10px;
+	width: 720px;
+}
+.hero-technic-title{
+	margin: 0;
+	margin-bottom: 8px;
+}
+..hero-technic p {
+	margin-bottom: 10px;
+}
